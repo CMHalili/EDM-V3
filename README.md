@@ -1,5 +1,5 @@
 # EDM-V3
-This portfolio will serve as a collection of my academic activities and porjects.
+This portfolio will serve as a collection of my Enterprise Management Lab Exercise
 ## About Me
 Hi! I'm Cassandra Halili! I'm currently pursuing a Bachelor of Science in Infromation System (BSIS), at City College of Angeles where I explore the intersection of technology, business, and data.
 ## Education
