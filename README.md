@@ -1,6 +1,5 @@
 # EDM-V3
-Describe the portfolio
-
+This portfolio will serve as a collection of my academic activities and porjects.
 ## About Me
 Hi! I'm Cassandra Halili! I'm currently pursuing a Bachelor of Science in Infromation System (BSIS), at City College of Angeles where I explore the intersection of technology, business, and data.
 ## Education
