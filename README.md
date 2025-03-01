@@ -11,4 +11,4 @@ High School: Graduated from Angeles City Science High School
 ## My Projects
 Midterm Lab Task 1:
 
-Midterm Lab Task 2:
+Midterm Lab Task 2: 
