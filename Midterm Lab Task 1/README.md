@@ -15,6 +15,7 @@ Step 2:
 * Mapped the normalization as a physical data model
 
 Step 3: Here's the screenshot of my output before i started data cleaning (see screenshot)
+![image alt](https://github.com/CMHalili/EDM-V3/blob/1d0af8f51477f0e36fdb168d6fb60274f4c7cd0f/Images/rawdata.jpg)
 
 Step 4: Here's the screenshot of my output after i started dat cleaning (see screenshot)
 
