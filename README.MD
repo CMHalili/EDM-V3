@@ -10,4 +10,4 @@ High School: Graduated from Angeles City Science High School
 ## My Projects
 [Midterm Lab Task 1](Midterm%20Lab%20Task%201/README.md)
 
-Midterm Lab Task 2: 
+Midterm Lab Task 2:[Midterm Lab Task 2](Midterm%20Lab%20Task%202/Data Cleaning and Preparation using POWER QUERY)
