@@ -17,7 +17,7 @@ Step 2:
 Step 3: Here's the screenshot of my output before i started data cleaning (see screenshot)
 ![image alt](https://github.com/CMHalili/EDM-V3/blob/1d0af8f51477f0e36fdb168d6fb60274f4c7cd0f/Images/rawdata.jpg)
 
-Step 4: Here's the screenshot of my output after i started dat cleaning (see screenshot)
+Step 4: Here's the screenshot of my output after i started data cleaning (see screenshot)
 ![image alt](https://github.com/CMHalili/EDM-V3/blob/5174f6389de8f40e37b599e64c8a4681213cb912/Images/cleaneddata.jpg)
 
 Here's the physical data model
