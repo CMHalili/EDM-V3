@@ -8,6 +8,6 @@ College: Currently studying at City College of Angeles
 High School: Graduated from Angeles City Science High School
 
 ## My Projects
-[Midterm Lab Task 1](Midterm%20Lab%20Task%201/README.md)
+Midterm lab task 1:[Data Cleaning and Preparation using Excel](Midterm%20Lab%20Task%201/README.md)
 
 [Midterm Lab Task 2](Midterm%20Lab%20Task%202/README.md)
