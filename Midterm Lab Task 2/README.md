@@ -109,7 +109,7 @@ This portfolio demonstrates the process of data cleaning and preparation using P
 ### Here's the screenshot of my output before I started data cleaning (see screenshot)
 ![Image](https://github.com/CMHalili/EDM-V3/blob/19c4ec4461671927819d4b81d3ed8fe4fbf989b2/Images/uncleaned%20data.PNG)
 ## Here are the screenshot of the Advanced Editor
-![Image](https://github.com/user-attachments/assets/363e27b5-76d2-4561-8907-6718216a3d45)
+![Image](https://github.com/CMHalili/EDM-V3/blob/f4e7f180c2a01eacb01c90796ed1d3f77e0dc251/Images/proof.PNG)
 ### Here's the screenshot of my output after I started data cleaning (see screenshot)
 ![Image](https://github.com/user-attachments/assets/dd368a40-ad15-4159-a5dd-3ab372efe33d)
 
