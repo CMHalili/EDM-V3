@@ -123,4 +123,4 @@ This portfolio demonstrates the process of data cleaning and preparation using P
 ### Here's the screenshot of States (see screenshot)
 ![Image](https://github.com/CMHalili/EDM-V3/blob/540ed7a579cb39cca21f010fe492167d3dd69991/Images/states.PNG)
 ### Here's the screenshot of the Query Dependencies
-![Image](https://github.com/CMHalili/EDM-V3/blob/31dc4cf70f012febcb9bd78819042c984a2130f3/Images/midterm2.PNG)
+![Image](https://github.com/CMHalili/EDM-V3/blob/79c06d64274f0cee294918499698da3bfe569479/Images/midterm2.PNG)
