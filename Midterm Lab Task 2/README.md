@@ -117,7 +117,7 @@ This portfolio demonstrates the process of data cleaning and preparation using P
 ### Here's the screenshot of Sal By Role type (see screenshot)
 ![Image](https://github.com/CMHalili/EDM-V3/blob/7e565646d2f633a533efe0ac286b38af3851498b/Images/sal%20role%20type.PNG)
 ### Here's the screenshot of Sal By Role Size (see screenshot)
-![Image](https://github.com/user-attachments/assets/f193001b-6da3-46fa-aa36-877f20cefc81)
+![Image](https://github.com/CMHalili/EDM-V3/blob/83806f88c7bc37b306c753b7834d49b2a8ef70b9/Images/role%20size.PNG)
 ### Here's the screenshot of Sal By State (see screenshot)
 ![Image](https://github.com/user-attachments/assets/d6e69440-32be-4cbf-af2c-5d8a99dfdcbc)
 ### Here's the screenshot of States (see screenshot)
