@@ -119,7 +119,7 @@ This portfolio demonstrates the process of data cleaning and preparation using P
 ### Here's the screenshot of Sal By Role Size (see screenshot)
 ![Image](https://github.com/CMHalili/EDM-V3/blob/83806f88c7bc37b306c753b7834d49b2a8ef70b9/Images/role%20size.PNG)
 ### Here's the screenshot of Sal By State (see screenshot)
-![Image](https://github.com/user-attachments/assets/d6e69440-32be-4cbf-af2c-5d8a99dfdcbc)
+![Image](https://github.com/CMHalili/EDM-V3/blob/352a32ba31321e9c7f6fbbda11c6312e8f7e4e38/Images/role%20state.PNG)
 ### Here's the screenshot of States (see screenshot)
 ![Image](https://github.com/user-attachments/assets/8c402690-1e7a-4253-899d-e0f74b6e302a)
 ### Here's the screenshot of the Query Dependencies
