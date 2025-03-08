@@ -111,7 +111,7 @@ This portfolio demonstrates the process of data cleaning and preparation using P
 ## Here are the screenshot of the Advanced Editor
 ![Image](https://github.com/CMHalili/EDM-V3/blob/f4e7f180c2a01eacb01c90796ed1d3f77e0dc251/Images/proof.PNG)
 ### Here's the screenshot of my output after I started data cleaning (see screenshot)
-![Image](https://github.com/user-attachments/assets/dd368a40-ad15-4159-a5dd-3ab372efe33d)
+![Image](https://github.com/CMHalili/EDM-V3/blob/26993c9ffb61a52678e37fcb3c27cf83c3c0555f/Images/cleaned%20data%20final.PNG)
 
 
 ### Here's the screenshot of Sal By Role type (see screenshot)
